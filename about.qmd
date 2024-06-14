@@ -1,5 +1,9 @@
 ---
 title: "About"
 ---
+## About Me
 
-Zephan Shivam
+My name is **Zephan Shivam** and I am *homeschooled*
+
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
