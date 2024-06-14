@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 31c5ea49-b07d-4dc4-bf4b-a0905cfb3195
+      url: 'https://zshi.quarto.pub/a-new-website'
